@@ -51,16 +51,6 @@ To run Edit Panda, ensure you have the following dependencies installed:
 
 2. Open your web browser and navigate to [http://localhost:5000](http://localhost:5000) to access the Edit Panda user interface.
 
-### Command-Line Usage
-
-If you prefer to use Edit Panda via the command line, you can do so by running the following command:
-
-```bash
-python convert.py [OPTIONS] INPUT_FILE(S) OUTPUT_DIRECTORY
-```
-
-Replace `[OPTIONS]` with the desired format and any additional options, `INPUT_FILE(S)` with the path to your input image(s), and `OUTPUT_DIRECTORY` with the directory where you want to save the converted image(s).
-
 ## Supported Formats
 
 Edit Panda supports the following image formats for conversion:
